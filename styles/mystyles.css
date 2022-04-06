@@ -1,0 +1,33 @@
+body {
+  background-color:#e6ffff!important;
+}
+
+.nav-link {
+  color:#ccffe5 !important;
+}
+
+.navbar-brand {
+  color:beige !important;
+}
+
+.subheading {
+  color: #ccffe5;
+}
+
+h1 {
+  color:#ccffe5;
+  font-family: cursive ;
+  font-size: 3rem !important;
+}
+
+.post-title {
+  font-family: Verdana !important;
+  text-align: center;
+}
+.post-subtitle {
+  text-align: right;
+}
+
+.spacer {
+  padding: 30px 30px 30px 30px;
+}

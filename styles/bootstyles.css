@@ -1,0 +1,32 @@
+body{
+  background-color:#ccffeb;
+}
+div{
+  margin:auto;
+  background-color: #e6ffff;
+  border-radius: 25px;
+}
+figcaption{
+  text-align:center;
+  font-family: verdana;
+  font-style:italic;
+}
+p{
+  text-align:center;
+  color:grey;
+  font-family:times;
+  font-size:20px;
+}
+.menuBar{
+  text-align:center;
+  font-family:cursive;
+  font-size:40px;
+  color:white;
+  background-color:darkgrey;
+  height: 100px;
+}
+a{
+  text-decoration:none;
+  color:inherit;
+  padding: 10px 50px 10px 50px;
+}
